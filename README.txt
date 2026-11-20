@@ -1,10 +1,6 @@
 Big Data Practical 8: Social Network Analysis with Spark GraphX and PageRank
 ============================================================================
 
-Name: Arvind Yadav
-Roll no: 31011123065
-Class: LYCS
-
 Aim
 ---
 
