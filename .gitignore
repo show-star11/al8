@@ -1,0 +1,9 @@
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
+.vscode/
+spark-warehouse/
+.DS_Store
